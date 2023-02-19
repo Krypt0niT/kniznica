@@ -1,0 +1,1 @@
+<?php include "navbar.php";  ?>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aperiam cumque delectus doloremque, exercitationem ipsa maiores necessitatibus sequi totam veniam voluptas voluptates! Facilis iusto, rerum. Architecto cum dolorem harum pariatur?
