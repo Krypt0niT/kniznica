@@ -17,9 +17,6 @@
         <img src="images/icon.png" width="30" height="30" class="d-inline-block align-top" alt="">
         LukaSUS
     </a>
-    <a class=" ms-5 text-white me-5" href="index.php">
-        <img src="images/icon.png" width="30" height="30" class="d-inline-block align-top" alt="">
-    </a>
 </nav>
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
