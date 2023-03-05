@@ -12,47 +12,47 @@
 <body>
 
 <div class="bg-dark text-white">
-    <div class="h5 pt-5 pb-5 text-center">Aj z drobných vecí sa dajú urobiť veľké. Vďaka vašim Anjelským drobným ste pri nákupoch na Martinuse darovali už 1 077 438,00 € na Dobrého Anjela. Ďakujeme!</div>
+    <div class="h6 pt-5 pb-5 text-center ">Aj z drobných vecí sa dajú urobiť veľké. Vďaka vašim Anjelským drobným ste pri nákupoch na Martinuse darovali už 1 077 438,00 € na Dobrého Anjela. Ďakujeme!</div>
     <div class="text-center"><hr></div>
-    <div class="row mt-5 pb-5">
-        <div class="col ps-5">
-            <div class="h5">KNÍHKUPECTVÁ</div>
-            <div class="text-start">Bratislava - Obchodná<br>
+    <div class="row w-100 mt-5 pb-5">
+        <div class="col w-75 px-0 text-center">
+            <div class="h6">KNÍHKUPECTVÁ</div>
+            <br>
+            <div class="">Bratislava - Obchodná<br>
                 Všetky kníhkupectvá <br>
                 Besedy <br>
                 Spriatelené kníhkupectvá</div>
         </div>
-        <div class="col ps-5">
-            <div class="h5">KATEGÓRIE</div>
-            <div class="text-start">Knihy<br>
+        <div class="col w-75 px-0 text-center">
+            <div class="h6">KATEGÓRIE</div>
+            <br>
+            <div class="">Knihy<br>
                 E-knihy<br>
                 Audioknihy<br>
                 Hry<br>
                 Filmy<br>
                 Doplnky</div>
         </div>
-        <div class="col ps-5">
-            <div class="h5">NAKUPUJTE U NÁS</div>
-            <div class="text-start">Doručenie<br>
+        <div class="col w-75 px-0 text-center">
+            <div class="h6">NAKUPUJTE U NÁS</div>
+            <br>
+            <div class="">Doručenie<br>
                 Platba<br>
                 Prečo práve u nás?<br>
                 Najčastejšie otázky<br>
                 Rezervácia v kníhkupectve<br>
                 Ako čítať e-knihy<br>
-                Ako počúvať audioknihy<br>
-                Reklamácie<br>
-                Poradíme vám?</div>
+             </div>
         </div>
-        <div class="col  ps-5">
-            <div class="h5">MARTINUS</div>
-            <div class="text-start">Náš príbeh<br>
+        <div class="col w-75 px-0 text-center">
+            <div class="h6">MARTINUS</div>
+            <br>
+            <div class="">Náš príbeh<br>
                 Náš blog<br>
                 Kontakty<br>
                 Knihovrátok<br>
                 Partnerský systém<br>
-                Pridaj sa k nám<br>
-                Marketing<br>
-                Prehlásenie o cookies</div>
+               </div>
         </div>
 
     </div>

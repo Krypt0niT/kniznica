@@ -12,7 +12,7 @@ $row = $result->fetch_assoc();
 $index = $row['COUNT(*)'];
 //-----------
 
-echo "<div class='row katalog text-white'>";
+echo "<div class='row katalog text-white w-100'>";
 for($i = 0; $i <$index; $i ++){
     $sql = 'SELECT * FROM knihy where id='.$i;
     $result = $conn->query($sql);
